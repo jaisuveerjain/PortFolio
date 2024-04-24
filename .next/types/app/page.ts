@@ -1,4 +1,4 @@
-// File: /Users/jaisuveerjain/Desktop/Resume and Cover Letters Germany/portfo/src/app/page.tsx
+// File: /Users/jaisuveerjain/Desktop/Resume and Cover Letters Germany/Porti/PortFolio/src/app/page.tsx
 import * as entry from '../../../src/app/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
